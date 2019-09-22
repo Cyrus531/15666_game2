@@ -21,7 +21,7 @@ Sources:
 I used some royalty-free loops of Apple's GarageBand to make these clips.
 GarageBand copyright explanation link: https://support.apple.com/en-us/HT201808
 
-Also, Anying Zheng (andrew ID: anyingz), a friend of mine who is not taking this class,
+Also, Anying Zheng (andrew ID: anyingz), my girlfriend who is not taking this class,
 helped me and taught me how to use GarageBand/Sketch to make the sounds/artwork I needed.
 
 This game was built with [NEST](NEST.md).
